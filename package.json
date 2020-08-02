@@ -44,7 +44,7 @@
   "devDependencies": {
     "babel": "^5.8.35",
     "babel-eslint": "^5.0.0",
-    "eslint": "^1.10.3",
+    "eslint": "^7.6.0",
     "jquery": "^2.1.4",
     "temp": "^0.8.3"
   }
